@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZdUu1MRJQ/fol15DT6pAhqzy7i9fnJ1ee+lCI5CHkggJ26wl7zy9T7OXeMulBTqr11SoVgHMzYWpgQvrwFjGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LLoyy\\source\\repos\\MISA.WEB.CUKCUK\\MISA.WEB.CUKCUK.API\\MISA.WEB.CUKCUK.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LLoyy\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\LLoyy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\LLoyy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LLoyy\\.nuget\\packages\\mysqlconnector\\2.1.10\\mysqlconnector.2.1.10.nupkg.sha512",
+    "C:\\Users\\LLoyy\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\LLoyy\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.3.1\\swashbuckle.aspnetcore.annotations.6.3.1.nupkg.sha512",
+    "C:\\Users\\LLoyy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\LLoyy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\LLoyy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\LLoyy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
